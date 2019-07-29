@@ -1,0 +1,12 @@
+{
+  "name": "jslocal",
+  "version": "1.0.0",
+  "description": "Local training development",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge E. Acosta Parra",
+  "license": "ISC"
+}
